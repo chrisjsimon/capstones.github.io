@@ -1,7 +1,3 @@
-## Portfolio
-
----
-
 ### Capstone Projects 2020 - 2021 
 
 <h3>[Capstone 1: CO2 Emissions Report in Excel Dashboards](/pdf/capstone_two_co2_emissions_report.pdf)</h3>
