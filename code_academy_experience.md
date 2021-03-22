@@ -6,5 +6,5 @@
   </p>
 </div>
 <p>
-  <a href="index">Return to main</a>
+  <a href="/data_analyst_prog_capstones">Return to main</a>
  </p>
