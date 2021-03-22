@@ -8,7 +8,7 @@
 <img src="images/capstone_two_edited.jpg?raw=true"/>
 
 ---
-<h3>[Capstone 3: Singapore Private Housing Transaction Report (PowerBi)](/pdf/capstone_three_bank.pdf)</h3>
+<h3>[Capstone 3: Singapore Private Housing Transaction Report (PowerBi)]</h3>
 <img src="images/capstone_three_edited.jpg?raw=true"/>
 
 <h3>[Capstone 4: Bank Term Deposit Predictive Model (Python, Jupyter)](/pdf/capstone_four_bank.pptx.pdf)</h3>
