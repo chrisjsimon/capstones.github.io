@@ -6,7 +6,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   In this page, I will be featuring the Capstone projects that we have embarked on using <strong>Excel Dashboard</strong>, <strong>MS SQL Server</strong>, <strong>PowerBi</strong> and <strong>Python</strong>. 
   <p>
   - <a href="code_academy_experience">My Code Academy experience</a><br>
-  - <a href="capstone_one_article">Capstone One Article</a>
   </p>
  
 theme: jekyll-theme-minimal
