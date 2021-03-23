@@ -2,8 +2,9 @@
 
 ### Capstone 1: CO2 Emissions Report in Excel Dashboards 
 
-[download pdf](pdf/capstone_one_co2_emissions_report.pdf)
-<!--<img src="images/capstone_one_edited.jpg?raw=true"/>-->
+<!--[download pdf](pdf/capstone_one_co2_emissions_report.pdf)-->
+[Screenshot]
+<img src="images/capstone_one_edited.jpg?raw=true"/><br>
 <iframe width="500" height="350" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=9A6420DDD56B8E97%21263&authkey=%21ACxR3avxbluSIuY&em=2&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True"></iframe>
 <br>
 <p>Our cohort's first capstone was an exciting and interesting project since prior to this I was unaware that Excel could do so much more than the usual spreadsheet functionalities that I was used to doing. </p>
