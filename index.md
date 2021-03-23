@@ -1,7 +1,5 @@
 ## Capstone Projects 2020 - 2021 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WngoqVB6cXw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ### Capstone 1: CO2 Emissions Report in Excel Dashboards 
 
 [download pdf](pdf/capstone_one_co2_emissions_report.pdf)
