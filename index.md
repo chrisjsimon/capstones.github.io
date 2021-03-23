@@ -13,7 +13,9 @@
 ---
 ### Capstone 2: Relational Database and MS Excel Dashboard (MS SQL Server)
 [download pdf](pdf/capstone_two_newchic.pdf)
-<img src="images/capstone_two_edited.jpg?raw=true"/>
+<!-- <img src="images/capstone_two_edited.jpg?raw=true"/> -->
+<iframe src="https://onedrive.live.com/embed?cid=9A6420DDD56B8E97&amp;resid=9A6420DDD56B8E97%211975&amp;authkey=AGqvahx5Aua-KDo&amp;em=2&amp;wdAr=1.7777777777777777" width="500px" height="350px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<p>For our second Capstone project, we were tasked to use MS SQL Server and MS Excel.</p>
 
 ---
 ### Capstone 3: Singapore Private Housing Transaction Report (PowerBi)
@@ -22,5 +24,5 @@
 ### Capstone 4: Bank Term Deposit Predictive Model (Python, Jupyter)
 [download pdf](pdf/capstone_four_bank.pptx.pdf)
 <!-- <img src="images/capstone_four_edited.jpg?raw=true"/> -->
-<iframe src="https://onedrive.live.com/embed?cid=9A6420DDD56B8E97&amp;resid=9A6420DDD56B8E97%211970&amp;authkey=AAIY_1D4uG2QClI&amp;em=2&amp;wdAr=1.7777777777777777" width="350px" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=9A6420DDD56B8E97&amp;resid=9A6420DDD56B8E97%211970&amp;authkey=AAIY_1D4uG2QClI&amp;em=2&amp;wdAr=1.7777777777777777" width="500px" height="350px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
