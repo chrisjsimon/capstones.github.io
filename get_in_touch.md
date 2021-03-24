@@ -7,17 +7,17 @@
 >
   <label>
     <strong>Your name:</strong><br>
-    <input type="text" name="name" style="width:100%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
+    <input type="text" name="name" style="width:90%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
   </label>
   <br><br>
   <label>
     <strong>Your email:</strong><br>
-    <input type="email" name="_replyto" style="width:100%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
+    <input type="email" name="_replyto" style="width:90%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
   </label>
   <br><br>
   <label>
     <strong>Your message:</strong><br>
-    <textarea name="message" rows="8" cols="50"  style="width:100%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;"></textarea>
+    <textarea name="message" rows="8" cols="50"  style="width:90%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;"></textarea>
   </label>
 
   <!-- your other form fields go here -->
