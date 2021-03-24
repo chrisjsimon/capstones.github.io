@@ -1,6 +1,6 @@
 <h2>Get in touch with me</h2>
 <p>Please fill up the form below if you'd like to get in touch with me.</p>
-<div style="background-image: url(images/paper_bg.png) repeat">
+<div style="background-image: url(images/paper_bg.png) background-repeat:repeat;padding: 10px 5px; ">
 <form
   action="https://formspree.io/f/mlearnqr"
   method="POST"
