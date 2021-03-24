@@ -1,6 +1,4 @@
-## Capstone Projects 2020 - 2021 
-
-<iframe src="https://onedrive.live.com/embed?cid=9A6420DDD56B8E97&amp;resid=9A6420DDD56B8E97%211977&amp;authkey=AAjsaMNYhC-843Q&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+## Capstone Projects 2020 - 2021
 
 ### Capstone 1: CO2 Emissions Report in Excel Dashboards 
 
