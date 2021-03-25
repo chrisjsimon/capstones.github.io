@@ -7,7 +7,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <p>
   - <a href="code_academy_experience">My Code Academy experience</a><br>
   - <a href="helpful_resources">Helpful Resources</a><br>
-  - <a href="get_in_touch" target="_blank">Get in touch with me</a>
+  - <a href="get_in_touch" target="_blank">Get in touch with me</a><br>
+  - <a href="resources_page">Resources page</a>
   </p>
 
 
