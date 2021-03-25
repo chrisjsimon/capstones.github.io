@@ -19,5 +19,4 @@
     <br>
     <button type="submit">Send</button>
 </form>
-theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+
