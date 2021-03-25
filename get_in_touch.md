@@ -1,6 +1,7 @@
 <div id="modal" class="offmodal">
     <div class="modal-container">
        <header>
+            <span class="close">
                <a href="#">X</a>
              </span>
          </header>
@@ -8,7 +9,7 @@
          <div class="modal-body">
             <h2>Get in touch with me</h2>
             <p>Please fill up the form below if you'd like to get in touch with me.</p>
-            <span class="close">
+            
               <form action="https://formspree.io/f/mlearnqr" method="POST">
                   <label>
                     <strong>Your name:</strong><br>
