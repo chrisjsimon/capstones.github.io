@@ -8,7 +8,7 @@
                 </span>
          </header>
          <div class="modal-body">
-              <form action="https://formspree.io/f/mlearnqr"method="POST">
+              <form action="https://formspree.io/f/mlearnqr" method="POST">
                   <label>
                     <strong>Your name:</strong><br>
                     <input type="text" name="name" style="width:90%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
