@@ -1,14 +1,14 @@
-div id="modal" class="offmodal">
-        <div class="modal-container">
-            <header>
-                <h2>Get in touch with me</h2>
+<div id="modal" class="offmodal">
+    <div class="modal-container">
+        <header>
+         <h2>Get in touch with me</h2>
                 <p>Please fill up the form below if you'd like to get in touch with me.</p>
                 <span class="close">
-                    <a href="#">X</a>
+                <a href="#">X</a>
                 </span>
-            </header>
-            <div class="modal-body">
-                <form action="https://formspree.io/f/mlearnqr"  method="POST">
+         </header>
+         <div class="modal-body">
+              <form action="https://formspree.io/f/mlearnqr"method="POST">
                   <label>
                     <strong>Your name:</strong><br>
                     <input type="text" name="name" style="width:90%;border: 2px solid gray; border-radius: 4px; padding:8px 10px;">
