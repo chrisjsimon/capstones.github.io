@@ -7,6 +7,7 @@
                 <a href="#">X</a>
                 </span>
          </header>
+        <br>
          <div class="modal-body">
               <form action="https://formspree.io/f/mlearnqr" method="POST">
                   <label>
