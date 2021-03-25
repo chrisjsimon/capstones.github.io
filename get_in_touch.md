@@ -29,6 +29,6 @@
                 <br>
                   <button type="submit">Send</button>
                </form>
-            </div>
-        </div>
-    </div>
+            </div> <!-- modal-body -->
+        </div> <!--modal-container -->
+    </div> <!-- modal -->
