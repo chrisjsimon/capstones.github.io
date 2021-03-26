@@ -1,4 +1,4 @@
-<script src="<files/focus.min.js"></script>
+<script src="files/focus.min.js"></script>
 <link rel="stylesheet" type="text/css" href="files/popup.css">
 
 <div data-trigger="accordion" data-target="#accordionExampleClosed">
