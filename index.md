@@ -27,7 +27,7 @@
 </p>
 ---
 ### Capstone 3: Singapore Private Housing Transaction Report (PowerBI)
-<img src="images/capstone_three_edited.jpg?raw=true"/>
+<iframe src="https://onedrive.live.com/embed?cid=9A6420DDD56B8E97&amp;resid=9A6420DDD56B8E97%211984&amp;authkey=AIboscwFx5Jsvp0&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <br>
 <p>&nbsp;</p>
 <p><em>Technologies and Applications used: PowerBI Desktop</em><br>
