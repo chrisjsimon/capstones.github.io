@@ -1,6 +1,3 @@
-## Header two
-this is just a sample page. blah blah
-
 <div data-trigger="accordion" data-target="#accordionExampleClosed">
   <span>
     Focus accordion example
