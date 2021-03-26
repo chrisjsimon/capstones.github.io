@@ -1,5 +1,5 @@
 <h2>Get in touch with me</h2>
-<p>Please fill up the form below if you'd like to get in touch with me.</p>           
+<p>If you're an Employer/Agent and you'd like to get in touch with me for possible employment opportunities, please fill up the form below with your details. Thank you. </p>           
   <form action="https://formspree.io/f/mlearnqr" method="POST">
     <label>
       <strong>Your name:</strong><br>
