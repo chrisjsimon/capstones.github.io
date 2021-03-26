@@ -1,3 +1,5 @@
+<script src="<files/focus.min.js"></script>
+
 <div data-trigger="accordion" data-target="#accordionExampleClosed">
   <span>
     Focus accordion example
