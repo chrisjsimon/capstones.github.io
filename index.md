@@ -2,7 +2,7 @@
 
 ### Capstone 1: CO2 Emissions Report in Excel Dashboards 
 
-[download pdf](pdf/capstone_one_co2_emissions_report.pdf)
+<a href="files/capstone_one_co2_emissions_report.xlsx" target="_blank">[download excel dashboard]</a><br>
 [Screenshot]
 <br>
 <img src="images/capstone_one_edited.jpg?raw=true"/><br><br>
